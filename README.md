@@ -1,3 +1,33 @@
+✅ Laravel Todo List App
+A sleek, modern To-Do List web application built with:
+
+⚙️ Laravel for powerful backend routing and task management
+
+🎨 TailwindCSS for clean, responsive UI styling
+
+⚡ Vite.js for fast frontend development and asset bundling
+
+🧠 Perfect for learning CRUD in Laravel or as a minimalist task manager.
+
+🚀 Features
+📥 Add tasks quickly with a clean, intuitive UI
+
+📝 Edit tasks inline with instant feedback
+
+🗑️ Delete tasks with confirmation prompts
+
+🎨 Fully responsive layout using Tailwind's grid system
+
+🔒 Secure Laravel routes with CSRF protection
+
+⚡ Fast performance via Vite and optimized asset loading
+
+🖼️ UI Preview
+Left Panel: Input new tasks
+Right Panel: View, update, or delete existing tasks
+
+All interactions update instantly using standard Laravel routes and Blade rendering.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
