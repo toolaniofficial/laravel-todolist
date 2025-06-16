@@ -10,4 +10,10 @@ export default defineConfig({
         }),
         tailwindcss(),
     ],
+    preview: {
+        host: true, // binds to 0.0.0.0
+        port: process.env.PORT || 4173, // use Render's injected PORT
+        allowedHosts: ['laravel-todolist.onrender.com'], // ✅ ALLOW your Render domain
+    },
 });
+
